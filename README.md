@@ -1,4 +1,3 @@
-# crypto-scraper-project
 # Crypto Scraper Project
 
 Crypto Scraper is a Django application designed to scrape cryptocurrency data from the CoinMarketCap website. This project uses Django, Celery, and Selenium with Microsoft Edge WebDriver for scraping the data.
